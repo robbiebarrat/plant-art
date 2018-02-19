@@ -45,13 +45,6 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 ## If you are using processing 3 to generate art
 
-* Use `read_voltage.pde` to help you read the voltage from processing. `visualize.pde` will draw a graph of the voltage. I may add a sample program later
+* Use `read_voltage.pde` to help you read/graph the voltage from processing. If it's working, you should see a slightly noisy function that hangs around a constant value for the most part.
 
-## If you are using python to generate art
-
-* Use `plant_voltage.py` to help you read the voltage from python. *more details will be added in the next day or two*
-
-
-
-
-
+* Use `template.pde` as a base program for your artwork; while in the `draw` loop, you can get the value of the plant anytime through the variable `plantValue` (which is a float).
