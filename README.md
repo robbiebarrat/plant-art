@@ -8,7 +8,7 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 ![](https://github.com/robbiebarrat/plant-art/blob/master/images/0.png)
 
 
-# Shopping List
+# Shopping List (~$45)
 
 * [arduino board for voltage](https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/) (if you already have one, i'm pretty sure any type with analog ports will work)
 
