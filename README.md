@@ -49,4 +49,6 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 # Sample artworks
 
-#### Coming within the next few days!
+Here is what `sample_circle.pde` generates while attached to one of my Snake plants (Sansevieria Laurentii)
+
+![](https://github.com/robbiebarrat/plant-art/blob/master/images/2.png)
