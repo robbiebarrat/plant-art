@@ -1,7 +1,5 @@
-# this is incomplete! give me another day or so, please.
-
 # plant-art
-Guide / tools for including plants and their electrical signals in your generative art
+Guide / tools for including plants and their electrical signals in your generative art using arduino + processing 3
 
 If you follow this readme you'll be able to use the electrical noise found in your houseplants to help make generative art with the processing programming language, like the image below.
 
@@ -41,10 +39,14 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 * Download + install the [arduino IDE](https://www.arduino.cc/en/Main/Software)
 
-* Start running `voltage.ino` on your board
+* Start running `voltage.ino` on your board - you will have to use the "tools" dropdown menu and select the right serial port (usually /dev/ttyUSB0)
 
-## If you are using processing 3 to generate art
+* Download + install the [processing 3 IDE](https://processing.org/download/)
 
 * Use `read_voltage.pde` to help you read/graph the voltage from processing. If it's working, you should see a slightly noisy function that hangs around a constant value for the most part.
 
 * Use `template.pde` as a base program for your artwork; while in the `draw` loop, you can get the value of the plant anytime through the variable `plantValue` (which is a float).
+
+# Sample artworks
+
+#### Coming within the next few days!
