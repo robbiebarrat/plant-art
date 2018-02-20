@@ -57,6 +57,8 @@ Here is what `sample_circle.pde` generates while attached to one of my Snake pla
 
 * More sample artworks
 
+* Use of a voltage booster for more accurate readings
+
 * Differences between plots during the night and during the day
 
 * More stuff dealing with pen-plotting (I use an axidraw to get my plots on paper)
