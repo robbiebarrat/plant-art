@@ -49,6 +49,14 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 # Sample artworks
 
-Here is what `sample_circle.pde` generates while attached to one of my Snake plants (Sansevieria Laurentii)
+Here is what `sample_circle.pde` generates while attached to one of my Snake plants (Sansevieria Laurentii) - note that it isn't the same algorithm from the first picture; just a really quick sample one I threw together to publish publically.
 
 ![](https://github.com/robbiebarrat/plant-art/blob/master/images/2.png)
+
+# Coming soon!
+
+* More sample artworks
+
+* Differences between plots during the night and during the day
+
+* More stuff dealing with pen-plotting (I use an axidraw to get my plots on paper)
